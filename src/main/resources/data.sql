@@ -6,6 +6,3 @@ INSERT INTO projetos(nome, custo, categoria) VALUES('Nova Moradia', 27000, 'PRIV
 INSERT INTO projetos(nome, custo, categoria) VALUES('Lago artificial', 32000, 'PARCERIA');
 INSERT INTO projetos(nome, custo, categoria) VALUES('Quadra de Futebol', 10000, 'PUBLICO');
 
-INSERT INTO atuacoes(engenheiro_id, projeto_id, duracao) VALUES(1, 3, 150);
-INSERT INTO atuacoes(engenheiro_id, projeto_id, duracao) VALUES(2, 1, 270);
-INSERT INTO atuacoes(engenheiro_id, projeto_id, duracao) VALUES(3, 2, 400);
